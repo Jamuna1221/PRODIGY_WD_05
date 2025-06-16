@@ -26,7 +26,7 @@ A fully responsive and dynamic Weather App built using **HTML, CSS, and JavaScri
 
 ##  Demo
 
-🔗 [view on linkedin](https://yourusername.github.io/weather-app/)  
+🔗 [view on linkedin]([https://yourusername.github.io/weather-app/](https://www.linkedin.com/posts/jamuna-rani-c-a4033931b_task5-prodigyinfotech-weatherapp-activity-7340271651097358336-E2SE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEHiZABddormHZGY9EhB3oeE8ISTbZCSSs))  
 
 
 ---
